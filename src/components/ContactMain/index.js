@@ -20,7 +20,7 @@ function ContactMain () {
     <div class="row justify-content-md-center">
       <div class="col-5">
         <div class="card-body aboutText rounded">
-          <section class="card-body">
+          <section class="card-body contactCard">
             <h5 class="finalText">
               Jonathan Kelley
               <br></br>

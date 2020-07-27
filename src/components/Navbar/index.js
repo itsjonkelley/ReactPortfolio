@@ -4,8 +4,9 @@ import './style.css'
 
 function Navbar () {
     return (
+      
       <nav className="navbar navbar-expand-lg navbar-light bg-light sticky-top">
-          <div className="container">
+          <div className="container-fluid">
         <Link className="navbar-brand logo-text" to="/">
         JK
         </Link>
